@@ -40,4 +40,5 @@ PS. there's a prototype development ground on coordinates (0, 0) where you can i
 <img width="1920" height="1048" alt="Screenshot From 2026-03-03 18-03-53" src="https://github.com/user-attachments/assets/9d52b02e-b11c-4340-9108-56cb137f7072" />
 <img width="1920" height="1048" alt="Screenshot From 2026-03-03 16-28-47" src="https://github.com/user-attachments/assets/fe1d5622-98b3-49f9-a8cd-6782b65161c8" />
 <img width="1920" height="1048" alt="Screenshot From 2026-03-03 16-28-59" src="https://github.com/user-attachments/assets/dcbea164-2034-4789-94d6-486178570107" />
-
+<img width="1920" height="1048" alt="Screenshot From 2026-03-03 18-59-23" src="https://github.com/user-attachments/assets/71ca526c-0adf-4bb5-83f7-b2c6f695fcac" />
+<img width="1920" height="1048" alt="Screenshot From 2026-03-03 18-59-49" src="https://github.com/user-attachments/assets/55e1c0f2-e4b2-41ca-8ccc-a417b3e28d81" />
