@@ -1,5 +1,7 @@
 # Worlds first instant 0-tick CPU in Minecraft
 
+[Download map](https://github.com/HironTez/0-tick-cpu-minecraft/releases)
+
 After an unreasonable amount of time, I've built what I believe to be the first functional CPU in Minecraft that operates entirely on 0-tick mechanics — meaning all logical operations complete within a single redstone tick.
 
 ## Architecture Overview
