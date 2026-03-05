@@ -1,8 +1,8 @@
-# Worlds first instant 0-tick CPU in Minecraft
+# Instant 0-tick CPU in Minecraft
 
-[Download map](https://github.com/HironTez/0-tick-cpu-minecraft/releases)
+[Download the world](https://github.com/HironTez/0-tick-cpu-minecraft/releases)
 
-After an unreasonable amount of time, I've built what I believe to be the first functional CPU in Minecraft that operates entirely on 0-tick mechanics — meaning all logical operations complete within a single redstone tick.
+After an unreasonable amount of time, I've built a functional CPU in Minecraft that operates entirely on 0-tick mechanics — meaning all logical operations complete within a single redstone tick.
 
 ## Architecture Overview
 The CPU is built exclusively from redstone dust and pistons. No repeaters, no comparators, no torches — components that typically introduce delay or state complexity are entirely absent. Also no command blocks or mods. All timing behavior is derived from 0-tick piston glitches, which allow state transitions to propagate and resolve within one tick.
